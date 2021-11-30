@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WillTrevisol,
-- I'm learning about Flutter and really enjoying it, and I'm a trainee and looking to get a lot of experience...
+- I'm learning about Flutter and really enjoying it, and I'm a trainee looking to get a lot of experience...
 
 <!---
 WillTrevisol/WillTrevisol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
