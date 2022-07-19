@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WillTrevisol,
-- I'm learning about Flutter and really enjoying it I'm also a Junior Developer looking to get a lot of experience...
+- I'm a Mobile Developer :)
 
 ##
 
