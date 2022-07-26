@@ -11,14 +11,14 @@
 
 ##
 
-<div><br>
+<div align="center"><br>
   <img height="30" width="80" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img height="30" width="80" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 ##
 
-<div><br>
+<div align="center"><br>
   <a href="https://www.linkedin.com/in/williantrevisol">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
