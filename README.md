@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/WillTrevisol">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=WillTrevisol&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillTrevisol&layout=compact&theme=onedark"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillTrevisol&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillTrevisol&layout=compact&theme=onedark"/></a>
 </div>
 
 ##
